@@ -22,7 +22,7 @@ for i in range(1, 10):
 
 print("")
 print("Task 3 : ")
-for j in range(1, 5):
+for j in range(1, 6):
   print("#" * (6 - j))
 for k in range(1, 6):
   print("#" * k)
