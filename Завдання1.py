@@ -22,7 +22,13 @@ for i in range(1, 10):
 
 print("")
 print("Task 3 : ")
-for j in range(1, 6):
-  print("#" * (6 - j))
-for k in range(1, 6):
-  print("#" * k)
+n = int(input("Enter N layers  = "))
+m = n
+for j in range(0, n):
+  j = n
+  print("#" * n)
+  n = n - 1
+j = 1
+for j in range(1, m+1):
+  print("#" * j)
+  j = j + 1
