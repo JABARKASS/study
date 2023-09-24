@@ -17,12 +17,19 @@ print("RESULT = ", r)
 
 print("")
 print("Task 2 : ")
+print("Двійка    Її степінь")
 for i in range(1, 11):
-  print(2**i, " ", i)
+  print(2**i, "          ", i)
 
 print("")
 print("Task 3 : ")
-for j in range(1, 6):
-  print("5 " * (6 - j))
-for k in range(1, 6):
-  print("5 " * k)
+n = int(input("Enter N layers  = "))
+m = n
+for j in range(0, n):
+  j = n
+  print("5 " * n)
+  n = n - 1
+j = 1
+for j in range(1, m + 1):
+  print("5 " * j)
+  j = j + 1
