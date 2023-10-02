@@ -1,4 +1,13 @@
-array = []
+n = int(input("Enter N elements in array = "))
+array1 = [0]*n
+
+for k in range (n):
+  array1[k] = int(input("Enter element of array : "))
+
+reverse = array1[::-1]
+print(reverse)
+
+array2 = []
 
 for i in range(7):
     row = []
@@ -7,7 +16,7 @@ for i in range(7):
             row.append(0)
         else:
             row.append(1)
-    array.append(row)
+    array2.append(row)
 
-for r in array:
+for r in array2:
     print(*r)
