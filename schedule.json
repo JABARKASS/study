@@ -1,0 +1,134 @@
+[
+  {
+    "train_number": 1,
+    "destination": "Kyiv Kharkiv",
+    "arrival_time": {
+      "hours": 8,
+      "minutes": 30
+    },
+    "departure_time": {
+      "hours": 9,
+      "minutes": 0
+    }
+  },
+  {
+    "train_number": 2,
+    "destination": "Lviv Odesa",
+    "arrival_time": {
+      "hours": 10,
+      "minutes": 45
+    },
+    "departure_time": {
+      "hours": 11,
+      "minutes": 15
+    }
+  },
+  {
+    "train_number": 3,
+    "destination": "Dnipro Kyiv",
+    "arrival_time": {
+      "hours": 12,
+      "minutes": 0
+    },
+    "departure_time": {
+      "hours": 12,
+      "minutes": 30
+    }
+  },
+  {
+    "train_number": 4,
+    "destination": "Sumy Kyiv",
+    "arrival_time": {
+      "hours": 13,
+      "minutes": 15
+    },
+    "departure_time": {
+      "hours": 13,
+      "minutes": 45
+    }
+  },
+  {
+    "train_number": 5,
+    "destination": "Lviv Sumy",
+    "arrival_time": {
+      "hours": 14,
+      "minutes": 30
+    },
+    "departure_time": {
+      "hours": 15,
+      "minutes": 0
+    }
+  },
+  {
+    "train_number": 6,
+    "destination": "Sumy Lviv",
+    "arrival_time": {
+      "hours": 16,
+      "minutes": 45
+    },
+    "departure_time": {
+      "hours": 17,
+      "minutes": 15
+    }
+  },
+  {
+    "train_number": 7,
+    "destination": "Kharkiv Sumy",
+    "arrival_time": {
+      "hours": 18,
+      "minutes": 0
+    },
+    "departure_time": {
+      "hours": 18,
+      "minutes": 30
+    }
+  },
+  {
+    "train_number": 8,
+    "destination": "Kharkiv Lviv",
+    "arrival_time": {
+      "hours": 19,
+      "minutes": 15
+    },
+    "departure_time": {
+      "hours": 19,
+      "minutes": 45
+    }
+  },
+  {
+    "train_number": 9,
+    "destination": "Odesa Dnipro",
+    "arrival_time": {
+      "hours": 20,
+      "minutes": 30
+    },
+    "departure_time": {
+      "hours": 21,
+      "minutes": 0
+    }
+  },
+  {
+    "train_number": 10,
+    "destination": "Kropyvnitskiy Uzhhorod",
+    "arrival_time": {
+      "hours": 22,
+      "minutes": 45
+    },
+    "departure_time": {
+      "hours": 23,
+      "minutes": 15
+    }
+  },
+  {
+    "train_number": 11,
+    "destination": "Odesa Kyiv",
+    "arrival_time": {
+      "hours": 15,
+      "minutes": 30
+    },
+    "departure_time": {
+      "hours": 10,
+      "minutes": 5
+    }
+  }
+]
